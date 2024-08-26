@@ -8,7 +8,12 @@ public class Board {
 	private String title;
 	private String contents;
 	private String userId;
-	private String hit;
+	private int hit;
 	private String category;
-	
+	private String favorite;
+	private String tag1;
+	private String tag2;
+	private String noticeYn;
+	private String cdateTime;
+	private String udateTime;
 }
