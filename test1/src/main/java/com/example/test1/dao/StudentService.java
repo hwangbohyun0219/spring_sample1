@@ -12,4 +12,6 @@ public interface StudentService {
 	Student searchQwer();
 	
 	HashMap<String, Object> searchStu(HashMap<String, Object> map);
+	
+	HashMap<String, Object> searchSubject();
 }
